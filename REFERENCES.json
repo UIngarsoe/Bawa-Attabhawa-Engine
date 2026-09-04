@@ -1,0 +1,46 @@
+{
+  "project": "Bawa-Attabhawa-Engine",
+  "version": "1.0.0",
+  "primary_source": {
+    "author": "Sayar Nanda Thein Zan",
+    "title_burmese": "ဘဝအဓိပ္ပာယ်နှင့် ဘဝသစ္စာ",
+    "title_english": "Definition and Truth of Life",
+    "original_year": 1968,
+    "institution": "Rangoon University Philosophy Department",
+    "core_subject": "Synthesis of Western Existentialism, World Philosophies, and Theravada Buddhist Thought"
+  },
+  "applied_context": {
+    "author": "U Ingar Soe",
+    "experience_timeline": {
+      "1988": "Early organizer during founding of NLD prior to main HQ launch",
+      "1989_1991": "ABSDF student fighter in the jungle following DASSK arrest",
+      "1991_present": "Non-violent political activist and political survivor",
+      "imprisonment": "9.5 months political imprisonment for non-violent conviction"
+    },
+    "core_insight": "Philosophy must withstand armed conflict, exile, and physical confinement to offer real mental sovereignty."
+  },
+  "target_audience": {
+    "primary_address": "Seekers of Direct Reality",
+    "secondary_address": "Young Truth-Seeking Entities",
+    "prohibited_terms": ["Gen Z", "Zoomers", "Youth Demographic"],
+    "tone_directive": "Humble, non-dogmatic, non-preachy, peer-to-peer, self-verifying"
+  },
+  "resource_links": [
+    {
+      "name": "Nanda Thein Zan Digital Library",
+      "type": "Archive",
+      "url": "https://mbookshelf.naingdroidapps.com/author/483-nanda-thein-zan/books"
+    },
+    {
+      "name": "Wikipedia - Nanda Thein Zan",
+      "type": "Biographical Record",
+      "url": "https://en.wikipedia.org/wiki/Nanda_Thein_Zan"
+    },
+    {
+      "name": "Burma News International Memorial",
+      "type": "News Record",
+      "url": "https://www.bnionline.net/en/mizzima-news/item/11384-philosopher-and-writer-nandar-thein-zan-dies.html"
+    }
+  ]
+}
+
