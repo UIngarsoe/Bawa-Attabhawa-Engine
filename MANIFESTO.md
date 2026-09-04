@@ -1,4 +1,4 @@
-# 📜 MANIFESTO OF DIRECT REALITY
+# 🦚 MANIFESTO OF DIRECT REALITY
 
 ### အသိဉာဏ်သစ္စာနှင့် တိုက်ရိုက်အရှိတရား ကြေညာစာတမ်း
 
