@@ -1,6 +1,8 @@
-🦚 Bamar Enlightenment Journal 75 Package 📦 
-16 September 2026 by U Ingar Soe 
+## 🦚 Bamar Enlightenment Journal 75 Package 📦 by U Ingar Soe 
+16 September 2026 
+
 In this package 📦 
+
 - River Flotilla mathematical audit  
 - ARMA 3 tactical simulation & modding insights  
 - Maung Nirva’s radio dialogue  
