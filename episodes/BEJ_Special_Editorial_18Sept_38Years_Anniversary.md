@@ -1,4 +1,4 @@
-# BAMAR ENLIGHTENMENT JOURNAL (BEJ)
+## 🦚 BAMAR ENLIGHTENMENT JOURNAL (BEJ)
 **Special Editorial: 18 September 2026 Issue**
 
 ---
